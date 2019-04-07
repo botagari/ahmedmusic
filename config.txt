@@ -1,0 +1,6 @@
+owner=554355178271145985
+prefix=M
+game=Ahmed Is Here .... | Mplay
+stayinchannel=true
+songinstatus=false
+token=NTY0NDA1MDk0NDY1MTQyNzg0.XKnZaw.BcUN_asZXHxmbXr8tZX3O2TavJA
